@@ -7,7 +7,7 @@
   "use strict";
 
   // Change this to your real endpoint when ready.
-  var VOTE_ENDPOINT = "https://nullsoftware.net/api/vote";
+  var VOTE_ENDPOINT = "https://nullsoftware.net/api/survey/teto-promo";
 
   var form = document.getElementById("vote-form");
   var statusEl = document.getElementById("form-status");
