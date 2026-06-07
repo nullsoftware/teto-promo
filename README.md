@@ -20,4 +20,4 @@ Eternal Drill of Tetoslavia.
 
 ### Inspiration
 
-This repo inspired by [this song](https://youtu.be/K31UFikhR5w?list=RDK31UFikhR5w) by **Chromatic**
+This repo inspired by [this song](https://youtu.be/K31UFikhR5w) by **Chromatic**
